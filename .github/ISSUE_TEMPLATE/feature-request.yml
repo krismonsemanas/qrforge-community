@@ -1,0 +1,57 @@
+name: Feature Request
+description: Suggest a new feature or improvement for QR Forge
+title: "[Feature]: "
+labels:
+  - enhancement
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing your idea.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      placeholder: Explain the pain point...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      placeholder: Describe your feature idea...
+    validations:
+      required: true
+
+  - type: textarea
+    id: usecase
+    attributes:
+      label: Use case
+      placeholder: Explain how this would be useful...
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Feature Category
+      options:
+        - QR Generator
+        - QR Styling
+        - Export System
+        - Performance
+        - Mobile UX
+        - Accessibility
+        - PWA
+        - SEO
+        - Templates
+        - Print Mode
+        - QR Analyzer
+        - Other
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References or inspiration
+      placeholder: Similar tools, mockups, screenshots, etc.

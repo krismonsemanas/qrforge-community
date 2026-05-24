@@ -1,0 +1,8 @@
+title: Feedback
+labels:
+  - feedback
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share feedback about QR Forge UX, performance, or overall experience.

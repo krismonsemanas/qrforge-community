@@ -1,0 +1,8 @@
+title: Showcase
+labels:
+  - showcase
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share your QR designs, workflows, or creative use cases.

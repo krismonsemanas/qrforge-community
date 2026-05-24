@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: QR Forge Discussions
+    url: https://github.com/krismonsemanas/qrforge-community/discussions
+    about: Use discussions for ideas, showcase, and general feedback.
