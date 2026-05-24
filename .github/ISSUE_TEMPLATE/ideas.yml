@@ -1,8 +1,0 @@
-title: Idea
-labels:
-  - ideas
-body:
-  - type: markdown
-    attributes:
-      value: |
-        Share your ideas for improving QR Forge.
